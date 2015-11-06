@@ -8,7 +8,7 @@
 
 ### Deploy to Azure
 
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](http://azuredeploy.net?repository=https://github.com/joshholmes/laravelphotogallery)
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](http://azuredeploy.net?repository=https://github.com/WISHPRO/laravelphotogallery)
 
 1. Click on Deploy to Azure
 2. Signin to a Microsoft Account which is associated to an Azure Subscription ([Free Trial](http://aka.ms/TryAzureToday))
